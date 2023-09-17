@@ -3,7 +3,7 @@
 
 # Обо мне
 ---------------
-<image src="/images/picture1.jpg" alt="Фотография">
+<image src="/images/picture1.jpg" alt="Фотография" width="200" height="220">
 
 **Ирина Ракова** 
 *23 года, г. Москва*
