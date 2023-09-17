@@ -3,7 +3,7 @@
 
 # Обо мне
 ---------------
-![Фотография](C:\Users\IR\Desktop\my site\images\picture1.jpg)
+![Фотография](file:///C:/Users/IR/Desktop/my%20site/images/picture1.jpg)
 
 **Ирина Ракова** 
 *23 года, г. Москва*
